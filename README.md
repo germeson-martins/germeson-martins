@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/codemartins_)
 
 
-![codemartins GitHub stats](https://github-readme-stats.vercel.app/api?username=codemartins&show_icons=true&theme=dracula)
+![Germeson Martins GitHub stats](https://github-readme-stats.vercel.app/api?username=codemartins&show_icons=true&theme=dracula)
 
 
 
