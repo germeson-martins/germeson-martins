@@ -3,12 +3,6 @@
 I'm starting out as a Front-end Web and Mobile Developer.<br/>
 I have loved technology since I was a child and have always been curious about how things are created. In the future, I want to be a Full Stack Developer.
 
-## More
-I currently live in São Paulo, Brazil.  I dream of traveling the world, getting to know new cultures and exploring new opportunities. <br/>
-I'm studying English, and after that, I want to learn Spanish and German! 
-
-See you! 🙋🏻‍♂️
-
 ## Contacte me
 
 <!-- [![Blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/codemartins) -->
@@ -33,3 +27,9 @@ See you! 🙋🏻‍♂️
 </div><br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codemartins&hide_progress=true)
+
+## More
+I currently live in São Paulo, Brazil.  I dream of traveling the world, getting to know new cultures and exploring new opportunities. <br/>
+I'm studying English, and after that, I want to learn Spanish and German! 
+
+See you! 🙋🏻‍♂️
