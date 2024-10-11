@@ -22,8 +22,6 @@ I have loved technology since I was a child and have always been curious about h
     <img align="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 </div><br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codemartins&hide_progress=true)
-
 ## More
 I currently live in São Paulo, Brazil.  I dream of traveling the world, getting to know new cultures and exploring new opportunities. <br/>
 I'm studying English, and after that, I want to learn Spanish and German! 
