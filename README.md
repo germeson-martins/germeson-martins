@@ -5,7 +5,7 @@ I have loved technology since I was a child and have always been curious about h
 
 ## Contacte me
 
-[![Blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://codemartins.github.io/social-links/)
+[![Blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://codemartins.github.io/dev-links/)
 [![LikenDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/germeson-martins/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/codemartins_)
 
