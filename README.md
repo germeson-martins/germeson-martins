@@ -9,7 +9,10 @@ I have loved technology since I was a child and have always been curious about h
 [![LikenDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/germeson-martins/)
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/codemartins_) -->
 
-![Germeson GitHub stats](https://github-readme-stats.vercel.app/api?username=codemartins&show_icons=true&theme=dracula)
+
+![Germeson GitHub stats](https://github-readme-stats.vercel.app/api?username=germeson-martins&show_icons=true&theme=radical)
+
+
 
 ## Technologies Used
 <div style="display: inline_block">
