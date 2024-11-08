@@ -6,8 +6,8 @@ I've loved technology since I was a kid and I've always been curious about how t
 📍 São Paulo, Brazil.<br>
 
 ## Contacte me
+[![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://germeson-martins.github.io/)
 [![LikenDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/germeson-martins/)
-[![Blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://germeson-martins.github.io/)
 <a href="mailto:germeson_martins@icloud.com"><img src="./img/logo-outlook.png" width="74"></a>
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/codemartins_) -->
 
