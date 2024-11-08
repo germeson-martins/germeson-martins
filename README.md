@@ -18,6 +18,7 @@
 
 
 ## Technologies Used
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3FveGhnZXg4emVqbWlxbTJ5Zms2M2wwZHljY2NxazB3OHYyc3F5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" alt="Snake animation" height="162" />
 <div style="display: inline_block">
     <img align="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -33,6 +34,10 @@
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt=PostgreSQL>
 </div>
+
+
+
+
 
 #### Tools
 <div style="display: inline-block">
