@@ -1,18 +1,21 @@
 
-## Hello! I'm Germeson Martins!👋🏼👨🏻‍💻 
-I'm starting out as a Front-end Web and Mobile Developer.<br/>
-I have loved technology since I was a child and have always been curious about how things are created. In the future, I want to be a Full Stack Developer.
+## Hello! I'm Germeson!👨🏻‍💻 
+👋🏼 I'm a Front-end developer.
+I've loved technology since I was a kid and I've always been curious about how things are created. In the future, I want to be a Full Stack developer.<br>
+🎓 Systems Analysis and Development, University of Estácio de Sá.<br>
+📍 São Paulo, Brazil.<br>
 
 ## Contacte me
-
-[![Blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://germeson-martins.github.io/)
 [![LikenDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/germeson-martins/)
+[![Blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://germeson-martins.github.io/)
+<a href="mailto:germeson_martins@icloud.com"><img src="./img/logo-outlook.png" width="74"></a>
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/codemartins_) -->
 
-
-![Germeson GitHub stats](https://github-readme-stats.vercel.app/api?username=germeson-martins&show_icons=true&theme=radical)
-
-
+<!-- Status GitHub -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=germeson-martins&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=germeson-martins&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ## Technologies Used
 <div style="display: inline_block">
@@ -24,9 +27,3 @@ I have loved technology since I was a child and have always been curious about h
     <img align="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logocolor=61DAFB"/>
     <img align="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 </div><br/>
-
-## More
-I currently live in São Paulo, Brazil.  I dream of traveling the world, getting to know new cultures and exploring new opportunities. <br/>
-I'm studying English, and after that, I want to learn Spanish and German! 
-
-See you! 🙋🏻‍♂️
