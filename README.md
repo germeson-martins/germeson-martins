@@ -13,7 +13,7 @@ I've loved technology since I was a kid and I've always been curious about how t
 
 <!-- Status GitHub -->
 ![Germeson GitHub stats](https://github-readme-stats.vercel.app/api?username=germeson-martins&show_icons=true&theme=dracula)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=germeson-martins&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="195" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=germeson-martins&locale=en&hide_title=false&layout=compact&card_width=180&langs_count=5&theme=dracula&hide_border=false" height="195" alt="languages graph"  />
 
 
 ## Technologies Used
