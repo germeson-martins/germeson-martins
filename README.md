@@ -12,10 +12,9 @@ I've loved technology since I was a kid and I've always been curious about how t
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/codemartins_) -->
 
 <!-- Status GitHub -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=germeson-martins&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=germeson-martins&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+![Germeson GitHub stats](https://github-readme-stats.vercel.app/api?username=germeson-martins&show_icons=true&theme=dracula)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=germeson-martins&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="195" alt="languages graph"  />
+
 
 ## Technologies Used
 <div style="display: inline_block">
