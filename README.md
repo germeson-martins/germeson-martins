@@ -13,8 +13,8 @@
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/codemartins_) -->
 
 <!-- Status GitHub -->
-<img src="https://github-readme-stats.vercel.app/api?username=germeson-martins&show_icons=true&theme=dracula" width="390">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=germeson-martins&locale=en&hide_title=false&layout=compact&card_width=315&langs_count=5&theme=dracula&hide_border=false"  width="366" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=germeson-martins&show_icons=true&theme=dracula" width="290">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=germeson-martins&locale=en&hide_title=false&layout=compact&card_width=315&langs_count=5&theme=dracula&hide_border=false"  width="273" alt="languages graph"  />
 
 
 ## Technologies Used
