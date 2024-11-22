@@ -14,8 +14,8 @@
 
 <!-- Status GitHub -->
 <div style="display: inline_block">
-<img src="https://github-readme-stats.vercel.app/api?username=germeson-martins&show_icons=true&theme=dracula" width="290">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=germeson-martins&locale=en&hide_title=false&layout=compact&card_width=315&langs_count=5&theme=dracula&hide_border=false"  width="273" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=germeson-martins&show_icons=true&theme=dracula" width="410">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=germeson-martins&locale=en&hide_title=false&layout=compact&card_width=315&langs_count=5&theme=dracula&hide_border=false"  width="387" alt="languages graph"  />
 </div>
 
 
