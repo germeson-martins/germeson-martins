@@ -1,8 +1,7 @@
 
 ## Hello! I'm Germeson!👨🏻‍💻 
-👋🏼 I'm a Front-end developer.<br>
+👋🏼 I'm a Full Stack developer.<br>
 ❤️ I've loved technology since I was a kid and I've always been curious about how things are created. <br>
-🚀In the future, I want to be a Full Stack developer.<br>
 🎓 Systems Analysis and Development, University of Estácio de Sá.<br>
 📍 São Paulo, Brazil.<br>
 
